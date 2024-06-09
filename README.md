@@ -1,6 +1,8 @@
 # Cash-Flow-Minimizer-
-Cash Flow Minimizer is a mini project build by using graph data structure 
-We implements an algorithm to find the minimum cash flow needed to settle debts among a group of individuals.
-It utilizes a recursive approach to identify and resolve transactions between creditors and debtors until all debts are settled.
-The algorithm calculates net amounts owed by each person, determines the maximum creditor and debtor in each step, and settles the minimum of their net amounts.
-The algorithm is a simplified version of the "Minimum Cash Flow to Settle Debts" algorithm, offering a clear illustration of debt resolution in a group setting.
+
+A small project called Minimizer was created utilizing a graph data structure. 
+We put an algorithm into practice to determine the bare minimum cash flow required to pay off obligations for a collection of people.
+It finds and settles transactions between creditors and debtors using a recursive method until all debts are paid off.
+The program computes the net amounts owed by each individual, settles the least of their net amounts, and finds the maximum creditor and debtor in each phase.
+This algorithm, which provides a clear example of debt resolution in a group environment, is a simplified version of the "Minimum Cash Flow to Settle Debts" algorithm.
+
