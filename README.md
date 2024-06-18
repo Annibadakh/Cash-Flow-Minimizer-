@@ -1,4 +1,4 @@
-# Cash-Flow-Minimizer-
+# Cash-Flow-Minimizer
 
 A small project called Minimizer was created utilizing a graph data structure. 
 We put an algorithm into practice to determine the bare minimum cash flow required to pay off obligations for a collection of people.
